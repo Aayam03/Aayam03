@@ -7,9 +7,7 @@
 - 💡 Interested in: **EdTech, Intelligent Tutoring Systems, HCI**
 - 📫 Reach me at: **aayamghimire04@email.com**
 ---
-## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=kotlin,javascript,python,cpp,androidstudio,git,github,linux,vscode)](https://skillicons.dev)
----
+
 ## 📊 GitHub Stats
 ![Aayam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aayam03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayam03&layout=compact&theme=tokyonight)
